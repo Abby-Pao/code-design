@@ -68,7 +68,7 @@ h2.navbar-text {
     font-size: 12px;
     line-height: 1.42;
     border-radius: 15px;
-    background-color: red;
+    background-color: #e6563b;
 }
 
 
@@ -80,7 +80,7 @@ h2.navbar-text {
     font-size: 12px;
     line-height: 1.42;
     border-radius: 15px;
-    background-color: orange;
+    background-color: #eb9d3a;
 }
 
 
@@ -92,7 +92,7 @@ h2.navbar-text {
     font-size: 12px;
     line-height: 1.42;
     border-radius: 15px;
-    background-color: green;
+    background-color: #7cb06c;
 }
 
 
@@ -104,5 +104,5 @@ h2.navbar-text {
     font-size: 12px;
     line-height: 1.42;
     border-radius: 15px;
-    background-color: blue;
+    background-color: #00aba9;
 }
