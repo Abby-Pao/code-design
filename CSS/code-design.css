@@ -1,25 +1,43 @@
 .container {
-    background-color: E6E6E6;
+    background-color: #E6E6E6;
 }
 
 .navbar {
-    background-color: F0F0F0;
+    background-color: #F0F0F0;
     margin-top: 50px;
     padding-top: 0px;
 }
 
 .navbar-brand img {
-    display: inline-block;
+    /*display: inline-block;*/
     float: left;
-    background-repeat: no-repeat;
-    background-size: contain;
+    /*background-repeat: no-repeat;*/
+    /*background-size: contain;*/
     width: 150px;
     height: 150px;
     padding: 0;
     margin: -2em;
-    vertical-align: middle;
+    /*vertical-align: middle;*/
+    position: relative;
+    top: -20px;
 }
 
+h2.navbar-text {
+    text-align: center;
+    /*float: left;*/
+    position: relative;
+    left: 30px;
+    top: -20px;
+    font-family: 'Abel', sans-serif;
+    color: black;
+}
+ a.navbar-bar {
+     color: black;
+ }
+
+ .container2 {
+     font-family: 'Anton', sans-serif;
+ }
 
 /*.btn-circle.btn-xl {*/
     /*width: 105px;*/
@@ -38,11 +56,6 @@
 .row {
     height: auto;
 }
-
-.btn-text,. {
-    text-align: center;
-}
-
 
 
 
