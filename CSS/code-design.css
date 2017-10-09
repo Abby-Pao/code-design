@@ -57,5 +57,52 @@ h2.navbar-text {
     height: auto;
 }
 
+/*.btn-circle {*/
+    /*border-radius: 50%;*/
+
+#buttonred {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.42;
+    border-radius: 15px;
+    background-color: red;
+}
 
 
+#buttonorange {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.42;
+    border-radius: 15px;
+    background-color: orange;
+}
+
+
+#buttongreen {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.42;
+    border-radius: 15px;
+    background-color: green;
+}
+
+
+#buttonblue {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.42;
+    border-radius: 15px;
+    background-color: blue;
+}
